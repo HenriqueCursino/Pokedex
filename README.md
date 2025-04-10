@@ -30,7 +30,7 @@ Uma aplicação mobile desenvolvida com **Flutter**, que consome a **PokeAPI** p
 
 ## 📦 Versão Web
 
-- [🌐 Testar versão web]([https://pokedex-flutter.web.app](https://preview.flutlab.io/henriquecursino/pokedex/))
+- [🌐 Testar versão web](https://preview.flutlab.io/henriquecursino/pokedex/)
 
 ---
 
