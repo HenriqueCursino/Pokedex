@@ -24,7 +24,7 @@ Uma aplicação mobile desenvolvida com **Flutter**, que consome a **PokeAPI** p
 
 | Tela de Login | Lista de Pokémon | Detalhes |
 |---------------|------------------|----------|
-| ![Login](prints/login.png) | ![Lista](prints/lista.png) | ![Detalhes](prints/detalhes.png) |
+| ![Login](images/login.png) | ![Lista](images/lista.png) | ![Detalhes](images/detalhes.png) |
 
 ---
 
